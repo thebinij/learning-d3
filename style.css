@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.tick text {
+  font-size: 14px;
+}
+
+.menu-container{
+  position: fixed;
+  top:0;
+  left:0;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+circle{
+  opacity: 0.5;
+}
